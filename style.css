@@ -123,7 +123,6 @@ main {
   .card {
     max-inline-size: 20.46rem;
     block-size: 33.3rem;
-    margin-block-start: 11.9vh;
   }
 
   .card:nth-child(1) {
