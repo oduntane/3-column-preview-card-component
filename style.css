@@ -22,7 +22,7 @@ main {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background: red;
+  background: var(--neutral-2);
 }
 
 .card:nth-child(1) {
